@@ -38,4 +38,5 @@ I examined the raw data in SQL Server to explore return patterns through the fol
 
 ## Key Business Insights and Recommendations
 
-<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/325da44f-a12e-4136-9e19-e493d9c6d10e" />
+<img width="1196" height="669" alt="image" src="https://github.com/user-attachments/assets/af60dcaf-ee07-4a04-b0eb-15f134cd0160" />
+
