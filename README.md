@@ -26,7 +26,9 @@ This project combines a two-layer analytical structure:
 
 ### SQL Analysis
 * **Tool:** SQL Server Management Studio (SSMS)
-* **File:** `Final 2_SQLQuery1.sql`
+* **File:** [Final 2_SQLQuery1.sql](./Final%202_SQLQuery1.sql)
+
+---
 
 ### Analysis Steps
 I examined the raw data in SQL Server to explore return patterns through the following steps:
