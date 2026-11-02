@@ -113,7 +113,7 @@ INNER JOIN OrderDetails o2 on r.OrderDetailID=o2.OrderDetailID
 INNER JOIN Orders o on o2.OrderID=o.OrderID
 INNER JOIN Customers c2 on o.CustomerID=c2.CustomerID
 GROUP BY c2.Region
-ORDER BY c2.Region,COUNT(r.Quantity) DESC --Central accounts for 68.5% of returned items ($202/295) and 72.1% of total refund losses ($32,806.47/$45,481.87$).
+ORDER BY c2.Region,COUNT(r.Quantity) DESC --Central accounts for 67.46% of returned items (168/249) and 72.1% of total refund losses ($32,806.47/$45,481.87$).
 
 --Why is Central generating over 72.1% of total refund losses?
 SELECT 
